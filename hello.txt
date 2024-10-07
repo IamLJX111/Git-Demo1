@@ -1,6 +1,7 @@
 public static void main(String[] args){
 
 System.out.println("Hello World!You are my sun!");
+System.out.println("Hello World!I am your moon!");
 
 }
 
