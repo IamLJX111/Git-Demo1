@@ -1,7 +1,7 @@
 public static void main(String[] args){
 
-System.out.println("Hello World!You are my sun!");
 System.out.println("ZY");
+System.out.println("LJX");
 
 }
 
