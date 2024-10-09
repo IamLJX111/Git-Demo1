@@ -4,5 +4,6 @@ System.out.println("ZY");
 System.out.println("LJX");
 
 int a=1;
+int b=2;
 }
 
